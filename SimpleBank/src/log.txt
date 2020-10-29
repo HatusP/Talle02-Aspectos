@@ -1,0 +1,9 @@
+Usuario creado Wed Oct 28 22:21:08 COT 2020
+Transaccion realizada Wed Oct 28 22:21:08 COT 2020
+Usuario creado el :  Wed Oct 28 22:28:24 COT 2020
+Usuario creado el :  Wed Oct 28 22:29:15 COT 2020
+Usuario creado el :  Wed Oct 28 22:30:41 COT 2020
+Transaccion realizada el: Wed Oct 28 22:30:41 COT 2020
+Dinero retirado el :  Wed Oct 28 22:30:41 COT 2020
+Usuario creado el :  Wed Oct 28 22:32:53 COT 2020
+Usuario creado el :  Wed Oct 28 22:51:40 COT 2020
